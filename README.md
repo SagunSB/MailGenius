@@ -153,9 +153,3 @@ The app creates local runtime files such as:
 - `pytest-cache-files-*`
 
 These are intentionally ignored by Git because they can contain logs, local databases, test output, and private email data.
-
-## Ownership
-
-Copyright (c) 2026 [Nilanjan Ghosh].
-
-This project was created and is owned by the author named above. See `NOTICE.md` for the ownership and trademark notice. Replace the placeholder owner name before publishing.
