@@ -1,0 +1,30 @@
+[
+  {
+    "uid": "sample-001",
+    "sender": "client@example.com",
+    "subject": "Urgent: proposal deadline moved to today",
+    "body": "Hi, the client review deadline moved up. Can you send the updated proposal and join a quick call this afternoon?",
+    "expected_category": "urgent"
+  },
+  {
+    "uid": "sample-002",
+    "sender": "newsletter@random-crypto.example",
+    "subject": "Crypto giveaway winner",
+    "body": "Congratulations, you won a crypto giveaway. Send wallet details immediately.",
+    "expected_category": "spam"
+  },
+  {
+    "uid": "sample-003",
+    "sender": "sibling@example.com",
+    "subject": "Birthday dinner plans",
+    "body": "Are you free for family birthday dinner on Saturday?",
+    "expected_category": "personal"
+  },
+  {
+    "uid": "sample-004",
+    "sender": "manager@example.com",
+    "subject": "Weekly report",
+    "body": "Please save the project status report notes and send a short acknowledgement.",
+    "expected_category": "work"
+  }
+]
